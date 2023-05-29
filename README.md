@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# Instagram - Clone
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Instagram clone developed by using Reactjs, Redux, TailwindCss, Firebase.
 
-## Available Scripts
+Site is LIVE on -> [https://instagram-clone.netlify.app/](https://instagram-clone.netlify.app/)
 
-In the project directory, you can run:
+## Project Content Images
 
-### `npm start`
+### 1. Home Page
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![insta-pics-home](https://github.com/Charyyev17/instagram-clone/assets/66562485/a812d171-5fb9-402e-825d-1fe090826c5f)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+-----------------------------------------------------------------------------------------------------------------------------
 
-### `npm test`
+### 2. Profile Page
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![insta-pics-profile](https://github.com/Charyyev17/instagram-clone/assets/66562485/f886d1ef-eeeb-4303-9da8-956ee0fd7d7b)
 
-### `npm run build`
+-----------------------------------------------------------------------------------------------------------------------------
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 3. Messages Page
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![insta-pics-messages](https://github.com/Charyyev17/instagram-clone/assets/66562485/8849d1ad-5a00-4b86-92eb-d38a5a0720df)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-----------------------------------------------------------------------------------------------------------------------------
 
-### `npm run eject`
+### 4. Create New Post Module
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![insta-pics-create-new](https://github.com/Charyyev17/instagram-clone/assets/66562485/4675e259-6989-45bc-aa77-262c57787aa6)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+-----------------------------------------------------------------------------------------------------------------------------
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### 5. Instagram Post Model
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![insta-pics-post](https://github.com/Charyyev17/instagram-clone/assets/66562485/db116183-bd80-4a4b-9a71-4ec3947e0e6a)
 
-## Learn More
+-----------------------------------------------------------------------------------------------------------------------------
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### 6. Login Page
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![login](https://github.com/Charyyev17/instagram-clone/assets/66562485/0c3c108b-0b0a-443a-a57f-486e42046daa)
 
-### Code Splitting
+-----------------------------------------------------------------------------------------------------------------------------
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### 7. Sign Up Page
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![signup](https://github.com/Charyyev17/instagram-clone/assets/66562485/a628ccea-be03-4ec6-9c6f-cf523ccd114a)
