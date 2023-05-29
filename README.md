@@ -2,7 +2,7 @@
 
 This Instagram clone developed by using Reactjs, Redux, TailwindCss, Firebase.
 
-Site is LIVE on -> [https://instagram-clone.netlify.app/](https://instagram-clone.netlify.app/)
+Website is LIVE on -> [https://instagram-clone-by-sch.netlify.app/](https://instagram-clone-by-sch.netlify.app/)
 
 ## Project Content Images
 
