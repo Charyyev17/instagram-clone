@@ -1,6 +1,6 @@
 # Instagram - Clone
 
-This Instagram clone developed by using Reactjs, Redux, TailwindCss, Firebase.
+This Instagram clone developed by using Reactjs, Redux, TailwindCss, Firebase JUST for Web versions, NOT recursive and doesn't work healthly on mobile versions.
 
 Website is LIVE on -> [https://instagram-clone-by-sch.netlify.app/](https://instagram-clone-by-sch.netlify.app/)
 
